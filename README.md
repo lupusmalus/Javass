@@ -4,7 +4,7 @@ Javass let's you play Jass with your friends as well as the computer!
 
 ## Requirements
 
-Javass requires [Java 11](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html) as well as (https://gluonhq.com/products/javafx/)[JavaFX 11]
+Javass requires [Java 11](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html) as well as [JavaFX 11](https://gluonhq.com/products/javafx/)
 
 ## Usage
 
